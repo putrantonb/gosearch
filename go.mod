@@ -1,11 +1,11 @@
-module github.com/ibnaleem/gosearch
+module github.com/putrantonb/gosearch
 
 go 1.24
 
 require (
 	github.com/bytedance/sonic v1.13.2
-	github.com/ibnaleem/gobreach v0.0.0-20250116204935-7ddbbc80aa72
-	github.com/inancgumus/screen v0.0.0-20190314163918-06e984b86ed3
+	github.com/putrantonb/gobreach v0.0.0-20250116204935-7ddbbc80aa72
+	github.com/putrantonb/screen v0.0.0-20190314163918-06e984b86ed3
 )
 
 require (
